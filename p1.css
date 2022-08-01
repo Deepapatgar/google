@@ -109,7 +109,7 @@
     fill: currentColor;
     height: 24px;
     line-height: 24px;
-    margin: 11px 10px 10px 17px;
+    margin: 12px 10px 10px 17.2px;
 }
 
 .mic {
@@ -117,7 +117,7 @@
     fill: currentColor;
     height: 24px;
     line-height: 24px;
-    margin: 13px 10px 10px 506px;
+    margin: 12px 10px 10px 506px;
 }
 
 .search-button {
@@ -172,7 +172,7 @@
     padding: 0 5px;
     position: relative;
     top: 28px;
-    left: 2.5px;
+    left: 2.6px;
     font-family: Arial, sans-serif;
 }
 
@@ -187,7 +187,7 @@
     padding: 0 5px;
     position: relative;
     top: 28px;
-    left: -0.5px;
+    left: -0.8px;
     font-family: Arial, sans-serif;
 }
 
@@ -217,7 +217,7 @@
     padding: 0 5px;
     position: relative;
     top: 28px;
-    left: -1px;
+    left: -1.3px;
     font-family: Arial, sans-serif;
 }
 
@@ -232,7 +232,7 @@
     padding: 0 5px;
     position: relative;
     top: 28px;
-    left: -2px;
+    left: -1.7px;
     font-family: Arial, sans-serif;
 }
 
@@ -262,7 +262,7 @@
     padding: 0 5px;
     position: relative;
     top: 28px;
-    left: -2px;
+    left: -2.5px;
     font-family: Arial, sans-serif;
 }
 
@@ -277,7 +277,7 @@
     padding: 0 5px;
     position: relative;
     top: 28px;
-    left: -3px;
+    left: -2.9px;
     font-family: Arial, sans-serif;
 }
 
@@ -292,7 +292,7 @@
     padding: 0 5px;
     position: relative;
     top: 28px;
-    left: -3px;
+    left: -3.2px;
     font-family: Arial, sans-serif;
 }
 
@@ -307,7 +307,7 @@
     padding: 0 5px;
     position: relative;
     top: 28px;
-    left: -3px;
+    left: -3.6px;
     font-family: Arial, sans-serif;
 }
 
